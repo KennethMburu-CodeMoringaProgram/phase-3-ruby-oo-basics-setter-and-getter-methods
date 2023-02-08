@@ -11,3 +11,6 @@ person = Person.new("Dean, Wnchester", "Full stck Developer")
 
 puts person.name
 puts person.job 
+
+
+
